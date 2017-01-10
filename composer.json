@@ -1,0 +1,5 @@
+{
+    "require": {
+        "virgil/sdk": "^4.0"
+    }
+}
